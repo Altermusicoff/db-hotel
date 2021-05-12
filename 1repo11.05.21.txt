@@ -8,3 +8,7 @@ GOAL in foglio di testo, scrivere le query necessarie per rispondere ai seguenti
 ● Seleziona tutte le prenotazioni precedenti a maggio 2018NOTA ricordo che 
 per eseguire il compito e' necessario il corretto funzionamento di PHPMyAdmin 
 (richiesto per domani) e l'importazione del file db-hotel condiviso alle 11.40
+
+
+
+GUARDARE SCREENSHOT QUERY NELL'ATTESA DELLA MODIFICA
